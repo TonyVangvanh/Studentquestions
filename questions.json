@@ -1,0 +1,31 @@
+[
+    {
+        "text": "AngularJS uses what programming language?", 
+        "answer": "JavaScript"
+    },
+    {
+        "text": "What is 2 plus 2?", 
+        "answer": "Four"
+    },
+    {
+        "text": "What is 12 divided by 6?", 
+        "answer": "Two"
+    },
+    {
+        "text": "What is 12 minus 6?", 
+        "answer": "Six"
+    },
+    {
+        "text": "What is 10 x 10?", 
+        "answer": "Hundred"
+    },
+    {
+        "text": "What is 10 divided 10?", 
+        "answer": "One"
+    },
+    {
+        "text": "What is 6 x 6?", 
+        "answer": "Thirty-Six"
+    }
+    
+]
